@@ -219,6 +219,6 @@ plt.show()
 
 ## Deployment
 
-  [App](https://pembelajaranmesin-cfkaxpm9dt4bhbuxqysnij.streamlit.app/)
+  [App](https://uasmachinelearning-78ixbbxhhnarjvyleammrh.streamlit.app/)
 
   ![Alt text](gambar7.png)
